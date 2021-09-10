@@ -1,2 +1,2 @@
 # Leetcode
-I have solved the easy levels problems of Leetcode
+I have solved the easy level problems of Leetcode
